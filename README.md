@@ -22,11 +22,11 @@ Server is running on port 3000
 ```
 
 You can then type localhost:3000 into your browser of choice. You should see the screen below.
-<p style="text-align:center;"><img src="images/blog_home.png" width="600" height="400"></p>
+<p align="center"><img src="images/blog_home.png" width="600" height="400"></p>
 
 ## How To Add Blog Entries
 * At the end of your URL type "/compose." For example localhost:3000/compose.
 * You will be brought to a page to write an entry.
 * Publish the entry which will be displayed on the main page. You can read the entire article by clicking "Read More."
 
-<p style="text-align:center;"><img src="images/blog_compose.gif" width="600" height="400"></p>
+<p align="center"><img src="images/blog_compose.gif" width="600" height="400"></p>
