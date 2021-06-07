@@ -1,7 +1,7 @@
 # A Blog Template
 This is a simple template useful for someone who is looking to start their own blog. The script is written in ES6 JS.
 
-A live version featuring Lorem Ipsum script is available HERE (Link to be added soon).
+A live version featuring Lorem Ipsum script is available [HERE](https://blog-nembhard.herokuapp.com/).
 
 If you want to download the file to get a more in-depth look at the Blog Template, read on below. This is not required as the app is hosted at the provide weblink above for quick viewing.
 
